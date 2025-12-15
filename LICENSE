@@ -1,0 +1,28 @@
+Storyteller
+Copyright (c) 2025 Requlish. All rights reserved.
+
+Storyteller and all associated assets, binaries, and content are proprietary 
+software. This repository distributes a compiled Unity build for portfolio 
+and demonstration purposes only. You may not redistribute, modify, decompile, 
+disassemble, or reverse engineer this product without explicit written 
+permission from the copyright holder.
+
+----------------------------------------
+THIRD-PARTY SOFTWARE NOTICE
+----------------------------------------
+
+This software integrates third-party services and technologies:
+
+1. Gemini 2.5 Flash API by Google
+   (https://ai.google.dev)
+   Copyright (c) Google LLC.
+   Used under Google's applicable Gemini API Terms of Service and usage policies
+
+2. Unity Engine
+   Copyright (c) Unity Technologies.
+   Unity and associated trademarks are the property of Unity Technologies.
+   This build is distributed in compliance with the Unity license applicable at the time of build.
+
+----------------------------------------
+END OF THIRD-PARTY NOTICES
+----------------------------------------
