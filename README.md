@@ -5,7 +5,7 @@
 ## Play the Game
 
 You can download and play the latest build here:  
-[**Oceanbound**](https://github.com/Requlish/Storyteller-Project/releases/latest)
+[**Storyteller**](https://github.com/Requlish/Storyteller-Project/releases/latest)
 
 ### How to Play
 1. Download the `Storyteller.zip` file from the release page.  
